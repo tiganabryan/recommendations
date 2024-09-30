@@ -1,0 +1,13 @@
+id,userId,title,description,categories
+1,1,"Clean the kitchen","Deep clean the kitchen, including organizing pantry, scrubbing appliances, and mopping the floor","chores"
+2,1,"Write a report on renewable energy","Research and compose a comprehensive report on current trends in renewable energy sources and their implementation","admin"
+3,1,"Plan weekly meal prep","Create a meal plan for the week, including grocery list and prep instructions for batch cooking","chores"
+4,1,"Organize digital photos","Sort through digital photo collection, categorize into albums, and back up to cloud storage","admin"
+5,2,"Plan a family vacation to Europe","Research destinations, create an itinerary, book flights and accommodations for a 2-week family trip to Europe","admin"
+6,2,"Learn basic car maintenance","Study and practice essential car maintenance tasks such as changing oil, replacing air filters, and checking tire pressure","chores"
+7,2,"Create a personal budget","Analyze income and expenses, categorize spending, and develop a monthly budget plan using spreadsheet software","admin"
+8,2,"Start a small herb garden","Plan, purchase supplies, and set up a small herb garden, including soil preparation and planting","chores"
+9,3,"Learn basic Spanish","Study essential Spanish vocabulary, basic grammar, and practice simple conversations for beginner level proficiency","personal development"
+10,3,"Declutter and organize home office","Sort through office supplies, organize documents, and create an efficient workspace layout","chores"
+11,3,"Learn to play chess","Study chess rules, basic strategies, and practice playing games to develop beginner-level skills","personal development"
+12,3,"Create a workout routine","Design a balanced exercise plan including cardio, strength training, and flexibility exercises tailored to personal fitness goals","personal development"
